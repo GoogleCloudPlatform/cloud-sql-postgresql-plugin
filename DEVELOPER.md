@@ -20,7 +20,7 @@ Before you begin, ensure you have the following:
 1.  **Clone the Repository:**
 
     ```bash
-    git clone https://github.com/gemini-cli-extensions/cloud-sql-postgresql.git
+    git clone https://github.com/GoogleCloudPlatform/cloud-sql-postgresql-plugin.git
     cd cloud-sql-postgresql
     ```
 
