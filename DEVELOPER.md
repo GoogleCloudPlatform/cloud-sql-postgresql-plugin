@@ -93,8 +93,8 @@ When adding support for new tools or modifying existing behavior, you should add
 The primary maintainers for this repository are defined in the
 [`.github/CODEOWNERS`](.github/CODEOWNERS) file:
 
-*   `@gemini-cli-extensions/senseai-eco`
-*   `@gemini-cli-extensions/cloud-sql-postgresql-maintainers`
+*   `@GoogleCloudPlatform/senseai-eco`
+*   `@GoogleCloudPlatform/cloud-sql-postgresql-plugin-maintainers`
 
 ### Releasing
 
